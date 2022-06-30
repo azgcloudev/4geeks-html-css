@@ -1,0 +1,57 @@
+body {
+    background-color: grey;
+    padding: 0;
+    margin: 0;
+
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.image-block {
+    width: 400px;
+    margin: auto;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.block-header {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+}
+
+.post-title {
+    width: 90%;
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+.image-number {
+    width: 10%;
+    font-size: 0.7em;
+    display: flex;
+    align-items: center;
+}
+
+.block-image {
+    width: 100%;
+}
+
+.block-foot {
+    background-color: white;
+    padding: 10px;
+}
+
+.hashtag {
+    font-weight: 800;
+}
